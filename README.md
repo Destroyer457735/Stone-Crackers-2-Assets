@@ -1,6 +1,8 @@
 # Stone Crackers 2 Assets
 Assets for my game "Stone Crackers 2" on penguin mod. (Link to penguin mod : https://penguinmod.com/)
 The servers are down at the moment so this is personal use.
+The project is able to be remixed here but not on penguin mod.
+Reasoning for this is to prevent cheating for later on when I add score boards.
 
 # License
 
