@@ -8,7 +8,7 @@ Reasoning for this is to prevent cheating for later on when I add score boards.
 
 MIT License
 
-Copyright (c) [2025] [Alec McKeever]
+Copyright (c) 2025 Alec McKeever
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
