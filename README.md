@@ -7,3 +7,4 @@ When in the editor, the save sprit will be deleted right after progress has been
 # IMPORTANT!
 This game is still in development!
 I will be making desktop versions of this via the packager.
+The desktop version will be on a seprate repo. If the servers are still down once I have a stable version, desktop will most likely come first.
